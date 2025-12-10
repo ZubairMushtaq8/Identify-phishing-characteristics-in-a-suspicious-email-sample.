@@ -1,0 +1,2 @@
+# Identify-phishing-characteristics-in-a-suspicious-email-sample.
+he task focuses on analyzing a potentially malicious email claiming that the user “won a Marriott Luxury Pillows 2-piece set.” Through a structured eight-step methodology, various phishing indicators were identified, including spoofed sender information, mismatched domains, malicious links, header inconsistencies, and reward-based manipulation.
